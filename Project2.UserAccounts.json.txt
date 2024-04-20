@@ -1,0 +1,2703 @@
+[{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fbb"
+  },
+  "name": "Agathe Dodson",
+  "username": "adodson1e",
+  "password": "cY8<PU!o!A9V'W",
+  "inventories": {
+    "id": {
+      "$numberLong": "1371658235910227749"
+    },
+    "inventoryName": "Medicine",
+    "items": [{
+      "id": 28597368,
+      "name": "Ibeprofen",
+      "usesLeft": 1,
+      "store": {
+        "id": 4458,
+        "name": "Walgreen",
+        "address": "0990 Jenna Pass"
+      },
+      "reminders": {
+        "id": 3090764,
+        "name": "Pills",
+        "daysTillPurchase": 4
+      },
+      "itemType": {
+        "id": 616897,
+        "consumableType": "medicine",
+        "daysTillExpiration": 218,
+        "brandName": "Advil"
+      }
+    },{
+      "id": 916133224,
+      "name": "Vitamin",
+      "usesLeft": 5,
+      "store": {
+        "id": 3890,
+        "name": "RiteAid",
+        "address": "61410 Farragut Park"
+      },
+      "itemType": {
+        "id": 214621,
+        "consumableType": "medicine",
+        "brandName": "Nature Made"
+      }
+    }]
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fbc"
+  },
+  "name": "Caryl Leming",
+  "username": "cleming1q",
+  "password": "wN1=)tkk$?vGz,B",
+  "inventories": {
+    "id": {
+      "$numberLong": "10665869060058186"
+    },
+    "inventoryName": "Medicine",
+    "items": {
+      "id": 28597368,
+      "name": "Ibeprofen",
+      "usesLeft": 41,
+      "store": {
+        "id": 4458,
+        "name": "Walgreen",
+        "address": "0990 Jenna Pass"
+      },
+      "itemType": {
+        "id": 329543,
+        "consumableType": "medicine",
+        "daysTillExpiration": 654,
+        "brandName": "Advil"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fbd"
+  },
+  "name": "Nerita Leversuch",
+  "username": "nleversuch13",
+  "password": "oW5~3kuj0kp",
+  "inventories": {
+    "id": {
+      "$numberLong": "2809217640198613123"
+    },
+    "inventoryName": "Medicine",
+    "items": {
+      "id": 28597368,
+      "name": "Ibeprofen",
+      "usesLeft": 21,
+      "itemType": {
+        "id": 406100,
+        "consumableType": "medicine",
+        "daysTillExpiration": 318,
+        "brandName": "Advil"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fbe"
+  },
+  "name": "Ronni Smeeth",
+  "username": "rsmeeth1f",
+  "password": "eW3\"rys\"",
+  "inventories": {
+    "id": {
+      "$numberLong": "2628528779028725108"
+    },
+    "inventoryName": "Medicine",
+    "items": {
+      "id": 28597368,
+      "name": "Ibeprofen",
+      "usesLeft": 38,
+      "store": {
+        "id": 4458,
+        "name": "Walgreen",
+        "address": "0990 Jenna Pass"
+      },
+      "itemType": {
+        "id": 904174,
+        "consumableType": "medicine",
+        "daysTillExpiration": 432,
+        "brandName": "Advil"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fbf"
+  },
+  "name": "Celestine Strowan",
+  "username": "cstrowan17",
+  "password": "aZ2=$k)uLu",
+  "inventories": {
+    "id": "9470650320464721299",
+    "inventoryName": "Medicine",
+    "items": {
+      "id": 28597368,
+      "name": "Ibeprofen",
+      "usesLeft": 34,
+      "store": {
+        "id": 4458,
+        "name": "Walgreen",
+        "address": "0990 Jenna Pass"
+      },
+      "reminders": {
+        "id": 3755969,
+        "name": "Monthly Reminder",
+        "daysTillPurchase": 18
+      },
+      "itemType": {
+        "id": 108917,
+        "consumableType": "medicine",
+        "daysTillExpiration": 321,
+        "brandName": "Advil"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fc0"
+  },
+  "name": "Roderic Bent",
+  "username": "rbent1s",
+  "password": "eL3(H(ov",
+  "inventories": {
+    "id": {
+      "$numberLong": "5575153193771605552"
+    },
+    "inventoryName": "Medicine",
+    "items": {
+      "id": 28597368,
+      "name": "Ibeprofen",
+      "usesLeft": 16,
+      "itemType": {
+        "id": 18910,
+        "consumableType": "medicine",
+        "daysTillExpiration": 248,
+        "brandName": "Advil"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fc1"
+  },
+  "name": "Patricia Abrahamoff",
+  "username": "pabrahamoffu",
+  "password": "hL2#NtPFF'3_g=",
+  "inventories": {
+    "id": {
+      "$numberLong": "8458220021516098974"
+    },
+    "inventoryName": "Medicine",
+    "items": {
+      "id": 28597368,
+      "name": "Ibeprofen",
+      "usesLeft": 3,
+      "store": {
+        "id": 4458,
+        "name": "Walgreen",
+        "address": "0990 Jenna Pass"
+      },
+      "reminders": {
+        "id": 1404900,
+        "name": "Monthly Reminder",
+        "daysTillPurchase": 5
+      },
+      "itemType": {
+        "id": 763631,
+        "consumableType": "medicine",
+        "daysTillExpiration": 118,
+        "brandName": "Advil"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fc2"
+  },
+  "name": "Vikky Bunt",
+  "username": "vbunt5",
+  "password": "zW9~(25uxG5PM>s",
+  "inventories": {
+    "id": {
+      "$numberLong": "5260208811897910305"
+    },
+    "inventoryName": "Medicine",
+    "items": {
+      "id": 28597368,
+      "name": "Ibeprofen",
+      "usesLeft": 18,
+      "store": {
+        "id": 4458,
+        "name": "Walgreen",
+        "address": "0990 Jenna Pass"
+      },
+      "itemType": {
+        "id": 969067,
+        "consumableType": "medicine",
+        "daysTillExpiration": 423,
+        "brandName": "Advil"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fc3"
+  },
+  "name": "Paulo Doxsey",
+  "username": "pdoxsey2h",
+  "password": "oA8~WaT49cPm",
+  "inventories": {
+    "id": {
+      "$numberLong": "1708123282661512439"
+    },
+    "inventoryName": "Medicine",
+    "items": {
+      "id": 28597368,
+      "name": "Ibeprofen",
+      "usesLeft": 3,
+      "store": {
+        "id": 4458,
+        "name": "Walgreen",
+        "address": "0990 Jenna Pass"
+      },
+      "reminders": {
+        "id": 4993896,
+        "name": "Pills",
+        "daysTillPurchase": 6
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fc4"
+  },
+  "name": "Carlie Lenham",
+  "username": "clenham2l",
+  "password": "wO3$96l%n47>!}",
+  "inventories": {
+    "id": {
+      "$numberLong": "1086352127574237104"
+    },
+    "inventoryName": "Medicine",
+    "items": {
+      "id": 916133224,
+      "name": "Vitamin",
+      "usesLeft": 6,
+      "store": {
+        "id": 3890,
+        "name": "RiteAid",
+        "address": "61410 Farragut Park"
+      },
+      "reminders": {
+        "id": 2902842,
+        "name": "Vitamins",
+        "daysTillPurchase": 4
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fc5"
+  },
+  "name": "Ruy Dureden",
+  "username": "rdureden8",
+  "password": "hR0#QR3S*1ft9",
+  "inventories": {
+    "id": "9695367425864006557",
+    "inventoryName": "Snack",
+    "items": {
+      "id": 41352203,
+      "name": "Grape",
+      "usesLeft": 0
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fc6"
+  },
+  "name": "Loralyn Commins",
+  "username": "lcommins2b",
+  "password": "eV8/!d8D'r7LqF/3",
+  "inventories": {
+    "id": {
+      "$numberLong": "7629611947948516268"
+    },
+    "inventoryName": "Snack",
+    "items": {
+      "id": 41352203,
+      "name": "Grape",
+      "usesLeft": 0,
+      "itemType": {
+        "id": 788502,
+        "consumableType": "fruits",
+        "daysTillExpiration": 2,
+        "brandName": "Trader Joe's"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fc7"
+  },
+  "name": "Rochette Creelman",
+  "username": "rcreelman2a",
+  "password": "hO7>'iM<m",
+  "inventories": {
+    "id": {
+      "$numberLong": "7309109791882558708"
+    },
+    "inventoryName": "Snack",
+    "items": {
+      "id": 41352203,
+      "name": "Grape",
+      "usesLeft": 1,
+      "store": {
+        "id": 8643,
+        "name": "Trader Joe's",
+        "address": "4 Jenna Trail"
+      },
+      "itemType": {
+        "id": 935095,
+        "consumableType": "fruits",
+        "daysTillExpiration": 4,
+        "brandName": "Trader Joe's"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fc8"
+  },
+  "name": "Shurlocke Storm",
+  "username": "sstorm0",
+  "password": "kT6#EM`Px_",
+  "inventories": {
+    "id": {
+      "$numberLong": "1342749521143508606"
+    },
+    "inventoryName": "Snack",
+    "items": {
+      "id": 193993376,
+      "name": "Apple",
+      "usesLeft": 4,
+      "store": {
+        "id": 8643,
+        "name": "Trader Joe's",
+        "address": "4 Jenna Trail"
+      },
+      "itemType": {
+        "id": 565576,
+        "consumableType": "fruits",
+        "daysTillExpiration": 6,
+        "brandName": "Trader Joe's"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fc9"
+  },
+  "name": "Javier Crinidge",
+  "username": "jcrinidged",
+  "password": "yK9/.pvauiPtE<",
+  "inventories": {
+    "id": {
+      "$numberLong": "5590316764423109468"
+    },
+    "inventoryName": "Snack",
+    "items": {
+      "id": 193993376,
+      "name": "Apple",
+      "usesLeft": 3,
+      "store": {
+        "id": 8643,
+        "name": "Trader Joe's",
+        "address": "4 Jenna Trail"
+      },
+      "itemType": {
+        "id": 250633,
+        "consumableType": "fruits",
+        "daysTillExpiration": 4,
+        "brandName": "Trader Joe's"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fca"
+  },
+  "name": "Ruy Eck",
+  "username": "reck1x",
+  "password": "rX6#\"CZ|8HwteJN",
+  "inventories": {
+    "id": {
+      "$numberLong": "8173296717148568627"
+    },
+    "inventoryName": "Snack",
+    "items": {
+      "id": 193993376,
+      "name": "Apple",
+      "usesLeft": 4,
+      "store": {
+        "id": 8643,
+        "name": "Trader Joe's",
+        "address": "4 Jenna Trail"
+      },
+      "itemType": {
+        "id": 333800,
+        "consumableType": "fruits",
+        "daysTillExpiration": 10,
+        "brandName": "Trader Joe's"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fcb"
+  },
+  "name": "Tamara Davidzon",
+  "username": "tdavidzon1d",
+  "password": "eK7%$FWSBVbi@",
+  "inventories": {
+    "id": {
+      "$numberLong": "6048326497656338263"
+    },
+    "inventoryName": "Snack",
+    "items": {
+      "id": 345752527,
+      "name": "Apple",
+      "usesLeft": 5,
+      "store": {
+        "id": 8643,
+        "name": "Trader Joe's",
+        "address": "4 Jenna Trail"
+      },
+      "itemType": {
+        "id": 642252,
+        "consumableType": "fruits",
+        "daysTillExpiration": 12,
+        "brandName": "Trader Joe's"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fcc"
+  },
+  "name": "Marve Phython",
+  "username": "mphython10",
+  "password": "mC5,h~Y3!'GD7W",
+  "inventories": {
+    "id": {
+      "$numberLong": "3954928742788197776"
+    },
+    "inventoryName": "Medicine",
+    "items": {
+      "id": 889278466,
+      "name": "Aspirin",
+      "usesLeft": 12,
+      "store": {
+        "id": 4458,
+        "name": "Walgreen",
+        "address": "0990 Jenna Pass"
+      },
+      "reminders": {
+        "id": 1152437,
+        "name": "Prescription Reminder",
+        "daysTillPurchase": 12
+      },
+      "itemType": {
+        "id": 615650,
+        "consumableType": "medicine",
+        "daysTillExpiration": 278,
+        "brandName": "Tylenol"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fcd"
+  },
+  "name": "Barton Itschakov",
+  "username": "bitschakov9",
+  "password": "uY8}sy<lx@_",
+  "inventories": {
+    "id": {
+      "$numberLong": "1988213027554395150"
+    },
+    "inventoryName": "Medicine",
+    "items": {
+      "id": 889278466,
+      "name": "Aspirin",
+      "usesLeft": 4,
+      "itemType": {
+        "id": 873417,
+        "consumableType": "medicine",
+        "daysTillExpiration": 241,
+        "brandName": "Tylenol"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fce"
+  },
+  "name": "Julita Kettlestringe",
+  "username": "jkettlestringe2k",
+  "password": "tN1@`32C'l\\",
+  "inventories": {
+    "id": {
+      "$numberLong": "5274375172545619897"
+    },
+    "inventoryName": "Medicine",
+    "items": {
+      "id": 889278466,
+      "name": "Aspirin",
+      "usesLeft": 7,
+      "store": {
+        "id": 4458,
+        "name": "Walgreen",
+        "address": "0990 Jenna Pass"
+      },
+      "itemType": {
+        "id": 338944,
+        "consumableType": "medicine",
+        "daysTillExpiration": 314,
+        "brandName": "Tylenol"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fcf"
+  },
+  "name": "Dante Grange",
+  "username": "dgrangem",
+  "password": "pZ5|Espc3gh",
+  "inventories": {
+    "id": {
+      "$numberLong": "4834188950229567839"
+    },
+    "inventoryName": "Medicine",
+    "items": {
+      "id": 889278466,
+      "name": "Aspirin",
+      "usesLeft": 12,
+      "store": {
+        "id": 4458,
+        "name": "Walgreen",
+        "address": "0990 Jenna Pass"
+      },
+      "itemType": {
+        "id": 615272,
+        "consumableType": "medicine",
+        "daysTillExpiration": 137,
+        "brandName": "Tylenol"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fd0"
+  },
+  "name": "Aurlie Chedgey",
+  "username": "achedgey2r",
+  "password": "oG6!soA5pnh",
+  "inventories": {
+    "id": {
+      "$numberLong": "814740334095435284"
+    },
+    "inventoryName": "Medicine",
+    "items": {
+      "id": 889278466,
+      "name": "Aspirin",
+      "usesLeft": 2,
+      "itemType": {
+        "id": 771968,
+        "consumableType": "medicine",
+        "daysTillExpiration": 147,
+        "brandName": "Tylenol"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fd1"
+  },
+  "name": "Jay Secrett",
+  "username": "jsecrettk",
+  "password": "sP2_{(%TU<se!Oc",
+  "inventories": {
+    "id": {
+      "$numberLong": "3084120812708923084"
+    },
+    "inventoryName": "Medicine",
+    "items": {
+      "id": 889278466,
+      "name": "Aspirin",
+      "usesLeft": 5,
+      "itemType": {
+        "id": 787151,
+        "consumableType": "medicine",
+        "daysTillExpiration": 189,
+        "brandName": "Tylenol"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fd2"
+  },
+  "name": "Dexter Gras",
+  "username": "dgrash",
+  "password": "sY3=%)~VG",
+  "inventories": {
+    "id": {
+      "$numberLong": "6120116829791595047"
+    },
+    "inventoryName": "Medicine",
+    "items": {
+      "id": 889278466,
+      "name": "Aspirin",
+      "usesLeft": 12,
+      "store": {
+        "id": 4458,
+        "name": "Walgreen",
+        "address": "0990 Jenna Pass"
+      },
+      "itemType": {
+        "id": 677817,
+        "consumableType": "medicine",
+        "daysTillExpiration": 153,
+        "brandName": "Tylenol"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fd3"
+  },
+  "name": "Jerri Keme",
+  "username": "jkeme1z",
+  "password": "vP6<VIe}$g3~R",
+  "inventories": {
+    "id": {
+      "$numberLong": "5688135471849050622"
+    },
+    "inventoryName": "Food",
+    "items": {
+      "id": 442893490,
+      "name": "Beef",
+      "usesLeft": 0,
+      "itemType": {
+        "id": 821410,
+        "consumableType": "meats",
+        "daysTillExpiration": 2,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fd4"
+  },
+  "name": "Dorie Houselee",
+  "username": "dhouselee2d",
+  "password": "kA6*~*%09",
+  "inventories": {
+    "id": {
+      "$numberLong": "5603611862294727831"
+    },
+    "inventoryName": "Food",
+    "items": {
+      "id": 442893490,
+      "name": "Beef",
+      "usesLeft": 0,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "reminders": {
+        "id": 987654,
+        "name": "BBQ",
+        "daysTillPurchase": 21
+      },
+      "itemType": {
+        "id": 455289,
+        "consumableType": "meats",
+        "daysTillExpiration": 1,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fd5"
+  },
+  "name": "Carlin Joubert",
+  "username": "cjoubert2f",
+  "password": "oK5/&@AQ",
+  "inventories": {
+    "id": {
+      "$numberLong": "1479126132608671116"
+    },
+    "inventoryName": "Food",
+    "items": {
+      "id": 442893490,
+      "name": "Beef",
+      "usesLeft": 1,
+      "itemType": {
+        "id": 975497,
+        "consumableType": "meats",
+        "daysTillExpiration": 3,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fd6"
+  },
+  "name": "Neddy Gouldstone",
+  "username": "ngouldstone22",
+  "password": "aF4`R\"pazsVVF?dO",
+  "inventories": {
+    "id": {
+      "$numberLong": "7620104294089363163"
+    },
+    "inventoryName": "Snack",
+    "items": {
+      "id": 41352203,
+      "name": "Grape",
+      "usesLeft": 9,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "itemType": {
+        "id": 617785,
+        "consumableType": "fruits",
+        "daysTillExpiration": 7,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fd7"
+  },
+  "name": "Renado Maddox",
+  "username": "rmaddoxw",
+  "password": "hA2!>\\LF\"?DQ1t",
+  "inventories": {
+    "id": {
+      "$numberLong": "4082098092801347676"
+    },
+    "inventoryName": "Snack",
+    "items": {
+      "id": 41352203,
+      "name": "Grape",
+      "usesLeft": 0,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fd8"
+  },
+  "name": "Jennilee Roberti",
+  "username": "jroberti28",
+  "password": "mR8@`NN'",
+  "inventories": {
+    "id": {
+      "$numberLong": "7885007889971280758"
+    },
+    "inventoryName": "Snack",
+    "items": {
+      "id": 41352203,
+      "name": "Grape",
+      "usesLeft": 9,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "itemType": {
+        "id": 24265,
+        "consumableType": "fruits",
+        "daysTillExpiration": 5,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fd9"
+  },
+  "name": "Jenifer Feveryear",
+  "username": "jfeveryear12",
+  "password": "gF8&Ab0cSRx,q6o",
+  "inventories": {
+    "id": {
+      "$numberLong": "5477435565166297921"
+    },
+    "inventoryName": "Food",
+    "usesLeft": 0,
+    "items": {
+      "id": 14497979,
+      "name": "Lettuce",
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "itemType": {
+        "id": 233808,
+        "consumableType": "vegetables",
+        "daysTillExpiration": 2,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fda"
+  },
+  "name": "Marina Beaudry",
+  "username": "mbeaudryz",
+  "password": "yZ8$Q`%q7(xN1",
+  "inventories": {
+    "id": {
+      "$numberLong": "2644988976088667220"
+    },
+    "inventoryName": "Hygiene",
+    "items": {
+      "id": 14493456,
+      "name": "Deodorant",
+      "usesLeft": 62,
+      "store": {
+        "id": 3890,
+        "name": "RiteAid",
+        "address": "61410 Farragut Park"
+      },
+      "itemType": {
+        "id": 149363,
+        "householdItemType": "hygieneProducts",
+        "brandName": "Native"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fdb"
+  },
+  "name": "Ros Ralston",
+  "username": "rralstoni",
+  "password": "fC0#0Z!Wcb",
+  "inventories": {
+    "id": {
+      "$numberLong": "6708280958761340410"
+    },
+    "inventoryName": "Food",
+    "items": {
+      "id": 14497979,
+      "name": "Lettuce",
+      "usesLeft": 2,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "reminders": {
+        "id": 1110554,
+        "name": "Salad",
+        "daysTillPurchase": 2
+      },
+      "itemType": {
+        "id": 86097,
+        "consumableType": "vegetables",
+        "daysTillExpiration": 8,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fdc"
+  },
+  "name": "Almeda Spracklin",
+  "username": "aspracklin1u",
+  "password": "uG2=\\%Ov(k|/",
+  "inventories": {
+    "id": {
+      "$numberLong": "8093379899272090877"
+    },
+    "inventoryName": "Hygiene",
+    "items": {
+      "id": 14493456,
+      "name": "Deodorant",
+      "usesLeft": 31,
+      "store": {
+        "id": 3890,
+        "name": "RiteAid",
+        "address": "61410 Farragut Park"
+      },
+      "itemType": {
+        "id": 599101,
+        "householdItemType": "hygieneProducts",
+        "brandName": "Native"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fdd"
+  },
+  "name": "Wilbert Blethin",
+  "username": "wblethin11",
+  "password": "gN7\"wZBW8)sJQ",
+  "inventories": {
+    "id": {
+      "$numberLong": "6464580746998514029"
+    },
+    "inventoryName": "Food",
+    "items": {
+      "id": 14497979,
+      "name": "Lettuce",
+      "usesLeft": 12,
+      "itemType": {
+        "id": 773143,
+        "consumableType": "vegetables",
+        "daysTillExpiration": 6,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fde"
+  },
+  "name": "Sandie Jubb",
+  "username": "sjubb2",
+  "password": "fA6\\Y_F<.@g<O?",
+  "inventories": {
+    "id": "9618776857772145462",
+    "inventoryName": "Food",
+    "items": {
+      "id": 14497979,
+      "name": "Lettuce",
+      "usesLeft": 10,
+      "itemType": {
+        "id": 139031,
+        "consumableType": "vegetables",
+        "daysTillExpiration": 4,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fdf"
+  },
+  "name": "Rosalie Rotter",
+  "username": "rrotter1m",
+  "password": "xY5|_)Gw",
+  "inventories": {
+    "id": {
+      "$numberLong": "7594126337766395086"
+    },
+    "inventoryName": "Food",
+    "items": {
+      "id": 14497979,
+      "name": "Lettuce",
+      "usesLeft": 21,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "itemType": {
+        "id": 902248,
+        "consumableType": "vegetables",
+        "daysTillExpiration": 11,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fe0"
+  },
+  "name": "Hugo Leake",
+  "username": "hleake2q",
+  "password": "oU0/KfTj%*mm&*Bt",
+  "inventories": {
+    "id": {
+      "$numberLong": "727693350450631745"
+    },
+    "inventoryName": "Food",
+    "items": {
+      "id": 14497979,
+      "name": "Lettuce",
+      "usesLeft": 5,
+      "itemType": {
+        "id": 899833,
+        "consumableType": "vegetables",
+        "daysTillExpiration": 2,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fe1"
+  },
+  "name": "Ardisj Dany",
+  "username": "adany1i",
+  "password": "bS8$Xjjs3S\"X,",
+  "inventories": {
+    "id": {
+      "$numberLong": "1269147966859779532"
+    },
+    "inventoryName": "Food",
+    "items": {
+      "id": 14497979,
+      "name": "Lettuce",
+      "usesLeft": 14,
+      "itemType": {
+        "id": 600389,
+        "consumableType": "vegetables",
+        "daysTillExpiration": 9,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fe2"
+  },
+  "name": "Mikey Braunton",
+  "username": "mbraunton25",
+  "password": "eR7$!$VSj",
+  "inventories": {
+    "id": {
+      "$numberLong": "2933116711847233907"
+    },
+    "inventoryName": "Food",
+    "items": {
+      "id": 14497979,
+      "name": "Lettuce",
+      "usesLeft": 7,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "itemType": {
+        "id": 637845,
+        "consumableType": "vegetables",
+        "daysTillExpiration": 5,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fe3"
+  },
+  "name": "Archibold Recke",
+  "username": "arecke23",
+  "password": "uL3)Td>5mq)\\?",
+  "inventories": {
+    "id": "9884060866471885862",
+    "inventoryName": "Food",
+    "items": {
+      "id": 14497979,
+      "name": "Lettuce",
+      "usesLeft": 0,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fe4"
+  },
+  "name": "Blaire Davidowsky",
+  "username": "bdavidowsky1r",
+  "password": "fC6#z'%/B8(um\"S",
+  "inventories": {
+    "id": {
+      "$numberLong": "1878186029055619013"
+    },
+    "inventoryName": "Food",
+    "items": {
+      "id": 14497979,
+      "name": "Lettuce",
+      "usesLeft": 1,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "itemType": {
+        "id": 310458,
+        "consumableType": "vegetables",
+        "daysTillExpiration": 3,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fe5"
+  },
+  "name": "Miriam Jouanot",
+  "username": "mjouanotp",
+  "password": "zV8(~rt>=4(XZ+xg",
+  "inventories": {
+    "id": {
+      "$numberLong": "8991233289209536072"
+    },
+    "inventoryName": "Makeup",
+    "items": {
+      "id": 496990301,
+      "name": "Lipstick",
+      "usesLeft": 42,
+      "store": {
+        "id": 3890,
+        "name": "RiteAid",
+        "address": "61410 Farragut Park"
+      },
+      "itemType": {
+        "id": 180894,
+        "householdItemType": "makeupProducts",
+        "brandName": "Chanel"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fe6"
+  },
+  "name": "Robinette Ottery",
+  "username": "rotteryy",
+  "password": "eW4,x,u2",
+  "inventories": {
+    "id": {
+      "$numberLong": "4860473132507467241"
+    },
+    "inventoryName": "Makeup",
+    "items": {
+      "id": 496990301,
+      "name": "Lipstick",
+      "usesLeft": 47,
+      "store": {
+        "id": 3890,
+        "name": "RiteAid",
+        "address": "61410 Farragut Park"
+      },
+      "itemType": {
+        "id": 138889,
+        "householdItemType": "makeupProducts",
+        "brandName": "Chanel"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fe7"
+  },
+  "name": "Reinhold Leask",
+  "username": "rleask26",
+  "password": "uL8&e~'6,\"4Aj2TK",
+  "inventories": {
+    "id": {
+      "$numberLong": "8486970173241703250"
+    },
+    "inventoryName": "Snack",
+    "items": [
+      {
+      "id": 95042506,
+      "name": "Melon",
+      "usesLeft": 3,
+      "itemType": {
+        "id": 480230,
+        "consumableType": "fruits",
+        "daysTillExpiration": 10,
+        "brandName": "Stop & Shop"
+      }},{
+      "id": 402743041,
+      "name": "Tomatoes",
+      "store": {
+        "id": 8643,
+        "name": "Trader Joe's",
+        "address": "4 Jenna Trail"
+      },
+      "itemType": {
+        "id": 687270,
+        "consumableType": "fruits",
+        "daysTillExpiration": 6,
+        "brandName": "Trader Joe's"
+      }
+    },{
+      "id": {
+        "$numberLong": "4030914173283479755"
+      },
+      "inventoryName": "Snack",
+      "items": {
+        "id": 116766067,
+        "name": "Strawberry",
+        "usesLeft": 0,
+        "store": {
+          "id": 8643,
+          "name": "Trader Joe's",
+          "address": "4 Jenna Trail"
+        },
+        "itemType": {
+          "id": 540531,
+          "consumableType": "fruits",
+          "daysTillExpiration": 3,
+          "brandName": "Trader Joe's"
+        }
+      }
+    }]
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fe8"
+  },
+  "name": "Farlee Peotz",
+  "username": "fpeotz1",
+  "password": "pZ6`PGW~L@",
+  "inventories": {
+    "id": {
+      "$numberLong": "86691059690534183"
+    },
+    "inventoryName": "Drink",
+    "items": {
+      "id": 336173632,
+      "name": "Milk",
+      "usesLeft": 10,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "reminders": {
+        "id": 3944935,
+        "name": "Milk for Cat",
+        "daysTillPurchase": 7
+      },
+      "itemType": {
+        "id": 470750,
+        "consumableType": "drinks",
+        "daysTillExpiration": 7,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fe9"
+  },
+  "name": "Carroll Gorwood",
+  "username": "cgorwooda",
+  "password": "rO2#*NdNXo4CC@>",
+  "inventories": {
+    "id": {
+      "$numberLong": "3546330913376794661"
+    },
+    "inventoryName": "Drink",
+    "items": {
+      "id": 336173632,
+      "name": "Milk",
+      "usesLeft": 4,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "itemType": {
+        "id": 810557,
+        "consumableType": "drinks",
+        "daysTillExpiration": 4,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fea"
+  },
+  "name": "Klarika Bettley",
+  "username": "kbettleyf",
+  "password": "kS8(d$j~",
+  "inventories": {
+    "id": {
+      "$numberLong": "4182471956706800837"
+    },
+    "inventoryName": "Drink",
+    "items": {
+      "id": 336173632,
+      "name": "Milk",
+      "usesLeft": 0,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "itemType": {
+        "id": 290488,
+        "consumableType": "drinks",
+        "daysTillExpiration": 2,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91feb"
+  },
+  "name": "Ardeen Clement",
+  "username": "aclementl",
+  "password": "kF7=5K&`W?,>",
+  "inventories": {
+    "id": {
+      "$numberLong": "5924145175966894267"
+    },
+    "inventoryName": "Drink",
+    "items": {
+      "id": 336173632,
+      "name": "Milk",
+      "usesLeft": 1,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "reminders": {
+        "id": 8713928,
+        "name": "Stock up",
+        "daysTillPurchase": 3
+      },
+      "itemType": {
+        "id": 814916,
+        "consumableType": "drinks",
+        "daysTillExpiration": 6,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fec"
+  },
+  "name": "Birdie Beetlestone",
+  "username": "bbeetlestonev",
+  "password": "dR4'h.<H*",
+  "inventories": {
+    "id": {
+      "$numberLong": "3508470339988897781"
+    },
+    "inventoryName": "Drink",
+    "items": {
+      "id": 336173632,
+      "name": "Milk",
+      "usesLeft": 8,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "itemType": {
+        "id": 400782,
+        "consumableType": "drinks",
+        "daysTillExpiration": 4,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fed"
+  },
+  "name": "Yehudit Leeburne",
+  "username": "yleeburne14",
+  "password": "mP5,0E3?$z)s",
+  "inventories": {
+    "id": {
+      "$numberLong": "2659055197972034847"
+    },
+    "inventoryName": "Drink",
+    "items": {
+      "id": 336173632,
+      "name": "Milk",
+      "usesLeft": 0,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "itemType": {
+        "id": 56365,
+        "consumableType": "drinks",
+        "daysTillExpiration": 1,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fee"
+  },
+  "name": "Mayne Yearnsley",
+  "username": "myearnsley16",
+  "password": "hT3_&muPt01z",
+  "inventories": {
+    "id": "9589901639003407300",
+    "inventoryName": "Drink",
+    "items": {
+      "id": 336173632,
+      "name": "Milk",
+      "usesLeft": 6,
+      "itemType": {
+        "id": 190807,
+        "consumableType": "drinks",
+        "daysTillExpiration": 10,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fef"
+  },
+  "name": "Clementina Gutridge",
+  "username": "cgutridge1b",
+  "password": "zL7+gpbBtG\\+",
+  "inventories": {
+    "id": {
+      "$numberLong": "4644842296803276952"
+    },
+    "inventoryName": "Drink",
+    "items": {
+      "id": 336173632,
+      "name": "Milk",
+      "usesLeft": 12,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "itemType": {
+        "id": 213742,
+        "consumableType": "drinks",
+        "daysTillExpiration": 8,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91ff0"
+  },
+  "name": "Colby Ceschi",
+  "username": "cceschi1j",
+  "password": "pL1$kQOc.{\"",
+  "inventories": {
+    "id": {
+      "$numberLong": "5202818866418492013"
+    },
+    "inventoryName": "Drink",
+    "items": {
+      "id": 336173632,
+      "name": "Milk",
+      "usesLeft": 6,
+      "itemType": {
+        "id": 418917,
+        "consumableType": "drinks",
+        "daysTillExpiration": 3,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91ff1"
+  },
+  "name": "Norma Rappoport",
+  "username": "nrappoport1n",
+  "password": "nN8@EzoP",
+  "inventories": {
+    "id": "9228160121266290902",
+    "inventoryName": "Drink",
+    "items": {
+      "id": 336173632,
+      "name": "Milk",
+      "usesLeft": 0,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91ff2"
+  },
+  "name": "Raine Bullocke",
+  "username": "rbullocke1p",
+  "password": "xE2\\)ZN?FNb3G_\\q",
+  "inventories": {
+    "id": {
+      "$numberLong": "5670790937321170442"
+    },
+    "inventoryName": "Drink",
+    "items": {
+      "id": 336173632,
+      "name": "Milk",
+      "usesLeft": 2,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "itemType": {
+        "id": 57109,
+        "consumableType": "drinks",
+        "daysTillExpiration": 3,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91ff3"
+  },
+  "name": "Felicio Horsfield",
+  "username": "fhorsfield2j",
+  "password": "iY0/q,_tjlK!*+Z",
+  "inventories": {
+    "id": {
+      "$numberLong": "1762160331504790025"
+    },
+    "inventoryName": "Drink",
+    "items": {
+      "id": 336173632,
+      "name": "Milk",
+      "usesLeft": 0,
+      "itemType": {
+        "id": 409636,
+        "consumableType": "drinks",
+        "daysTillExpiration": 1,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91ff4"
+  },
+  "name": "Findlay Follitt",
+  "username": "ffollitt2o",
+  "password": "sS4_G~iHY{/X",
+  "inventories": {
+    "id": {
+      "$numberLong": "6944601159437226605"
+    },
+    "inventoryName": "Drink",
+    "items": {
+      "id": 336173632,
+      "name": "Milk",
+      "usesLeft": 5,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "itemType": {
+        "id": 81710,
+        "consumableType": "drinks",
+        "daysTillExpiration": 4,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91ff5"
+  },
+  "name": "Raine Ridde",
+  "username": "rriddee",
+  "password": "rU1)3{3LN",
+  "inventories": {
+    "id": {
+      "$numberLong": "6669385592575374965"
+    },
+    "inventoryName": "Food",
+    "items": {
+      "id": 275902616,
+      "name": "Pork",
+      "usesLeft": 0,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91ff6"
+  },
+  "name": "Shelley Dodle",
+  "username": "sdodleo",
+  "password": "bB8?|ES%LUEP",
+  "inventories": {
+    "id": {
+      "$numberLong": "2039285822358998415"
+    },
+    "inventoryName": "Food",
+    "items": {
+      "id": 275902616,
+      "name": "Pork",
+      "usesLeft": 1,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "itemType": {
+        "id": 676029,
+        "consumableType": "meats",
+        "daysTillExpiration": 3,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91ff7"
+  },
+  "name": "Walt Hall",
+  "username": "whall1g",
+  "password": "pG1>&eD$4UOkjKA",
+  "inventories": {
+    "id": {
+      "$numberLong": "8724524807999214332"
+    },
+    "inventoryName": "Food",
+    "items": {
+      "id": 275902616,
+      "name": "Pork",
+      "usesLeft": 6,
+      "itemType": {
+        "id": 542485,
+        "consumableType": "meats",
+        "daysTillExpiration": 5,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91ff8"
+  },
+  "name": "Gayler Sisey",
+  "username": "gsisey1t",
+  "password": "vW6+P}~/\\oclI}4H",
+  "inventories": {
+    "id": {
+      "$numberLong": "9158279076565486650"
+    },
+    "inventoryName": "Food",
+    "items": {
+      "id": 275902616,
+      "name": "Pork",
+      "usesLeft": 0,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "itemType": {
+        "id": 176191,
+        "consumableType": "meats",
+        "daysTillExpiration": 2,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91ff9"
+  },
+  "name": "Tommie Olliar",
+  "username": "tolliar29",
+  "password": "zK6_t(/~Mi.5Eev@",
+  "inventories": {
+    "id": {
+      "$numberLong": "6478891950352516883"
+    },
+    "inventoryName": "Food",
+    "items": {
+      "id": 275902616,
+      "name": "Pork",
+      "usesLeft": 0,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "itemType": {
+        "id": 139810,
+        "consumableType": "meats",
+        "daysTillExpiration": 5,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91ffa"
+  },
+  "name": "Malvina Bumpus",
+  "username": "mbumpus2p",
+  "password": "pR9&}#Nt+PO",
+  "inventories": {
+    "id": {
+      "$numberLong": "7094327170668201573"
+    },
+    "inventoryName": "Food",
+    "items": {
+      "id": 275902616,
+      "name": "Pork",
+      "usesLeft": 3,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "itemType": {
+        "id": 151010,
+        "consumableType": "meats",
+        "daysTillExpiration": 7,
+        "brandName": "Stop & Shop"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91ffb"
+  },
+  "name": "Mellisa Karolovsky",
+  "username": "mkarolovskyg",
+  "password": "rD1?vrE<cehbI(",
+  "inventories": {
+    "id": {
+      "$numberLong": "2736719954690713698"
+    },
+    "inventoryName": "Hygiene",
+    "items": {
+      "id": 323241644,
+      "name": "Shampoo",
+      "usesLeft": 30,
+      "store": {
+        "id": 2304,
+        "name": "Target",
+        "address": "8870 Ridgeview Plaza"
+      },
+      "reminders": {
+        "id": 2856404,
+        "name": "Shampoo Reminder",
+        "daysTillPurchase": 26
+      },
+      "itemType": {
+        "id": 581643,
+        "householdItemType": "hygieneProducts",
+        "brandName": "Dove"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91ffc"
+  },
+  "name": "Karoly Penney",
+  "username": "kpenney2m",
+  "password": "lX4'lZZZGY=jKV",
+  "inventories": {
+    "id": {
+      "$numberLong": "9128540713001210908"
+    },
+    "inventoryName": "Hygiene",
+    "items": {
+      "id": 323241644,
+      "name": "Shampoo",
+      "usesLeft": 27,
+      "store": {
+        "id": 2304,
+        "name": "Target",
+        "address": "8870 Ridgeview Plaza"
+      },
+      "itemType": {
+        "id": 166688,
+        "householdItemType": "hygieneProducts",
+        "brandName": "Dove"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91ffd"
+  },
+  "name": "Lyon Matthias",
+  "username": "lmatthias2i",
+  "password": "wQ6*zUM2R",
+  "inventories": {
+    "id": {
+      "$numberLong": "4030914173283479755"
+    },
+    "inventoryName": "Snack",
+    "items": {
+      "id": 116766067,
+      "name": "Strawberry",
+      "usesLeft": 0,
+      "store": {
+        "id": 8643,
+        "name": "Trader Joe's",
+        "address": "4 Jenna Trail"
+      },
+      "itemType": {
+        "id": 540531,
+        "consumableType": "fruits",
+        "daysTillExpiration": 3,
+        "brandName": "Trader Joe's"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91ffe"
+  },
+  "name": "Sherry Rayworth",
+  "username": "srayworth1y",
+  "password": "iA4.9_t0cha\\",
+  "inventories": {
+    "id": {
+      "$numberLong": "3170687704605497156"
+    },
+    "inventoryName": "Snack",
+    "items": {
+      "id": 402743041,
+      "name": "Tomatoes",
+      "usesLeft": 4,
+      "store": {
+        "id": 8643,
+        "name": "Trader Joe's",
+        "address": "4 Jenna Trail"
+      },
+      "itemType": {
+        "id": 740212,
+        "daysTillExpiration": 10,
+        "brandName": "Trader Joe's"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b91fff"
+  },
+  "name": "Annabela Phillip",
+  "username": "aphillipq",
+  "password": "oG1|oyI=._keAQs",
+  "inventories": {
+    "id": {
+      "$numberLong": "8746938710679209110"
+    },
+    "inventoryName": "Snack",
+    "items": {
+      "id": 402743041,
+      "name": "Tomatoes",
+      "usesLeft": 3,
+      "store": {
+        "id": 8643,
+        "name": "Trader Joe's",
+        "address": "4 Jenna Trail"
+      },
+      "itemType": {
+        "id": 687270,
+        "consumableType": "fruits",
+        "daysTillExpiration": 6,
+        "brandName": "Trader Joe's"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92000"
+  },
+  "name": "Cairistiona De Giorgi",
+  "username": "cde19",
+  "password": "yL8/6.?l9c",
+  "inventories": {
+    "id": {
+      "$numberLong": "2432965378789315010"
+    },
+    "inventoryName": "Snack",
+    "items": {
+      "id": 402743041,
+      "name": "Tomatoes",
+      "usesLeft": 12,
+      "itemType": {
+        "id": 219150,
+        "consumableType": "fruits",
+        "daysTillExpiration": 8,
+        "brandName": "Trader Joe's"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92001"
+  },
+  "name": "Benn Juggings",
+  "username": "bjuggings21",
+  "password": "fX3,Yd1'Vu3/w",
+  "inventories": {
+    "id": {
+      "$numberLong": "1091645059708204242"
+    },
+    "inventoryName": "Snack",
+    "items": {
+      "id": 402743041,
+      "name": "Tomatoes",
+      "usesLeft": 1,
+      "store": {
+        "id": 8643,
+        "name": "Trader Joe's",
+        "address": "4 Jenna Trail"
+      },
+      "itemType": {
+        "id": 274553,
+        "consumableType": "fruits",
+        "daysTillExpiration": 4,
+        "brandName": "Trader Joe's"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92002"
+  },
+  "name": "Meade Estcot",
+  "username": "mestcot2e",
+  "password": "bT3%+Haz9>",
+  "inventories": {
+    "id": {
+      "$numberLong": "690019002193139115"
+    },
+    "inventoryName": "Snack",
+    "items": {
+      "id": 402743041,
+      "name": "Tomatoes",
+      "usesLeft": 3,
+      "store": {
+        "id": 8643,
+        "name": "Trader Joe's",
+        "address": "4 Jenna Trail"
+      },
+      "itemType": {
+        "id": 24329,
+        "consumableType": "fruits",
+        "daysTillExpiration": 5,
+        "brandName": "Trader Joe's"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92003"
+  },
+  "name": "Michail Tregenna",
+  "username": "mtregenna1o",
+  "password": "xS4\"j),?p7Y<",
+  "inventories": {
+    "id": {
+      "$numberLong": "8850913890980046865"
+    },
+    "inventoryName": "SkinCare",
+    "items": {
+      "id": 57020722,
+      "name": "Sunscreen",
+      "usesLeft": 14,
+      "store": {
+        "id": 3890,
+        "name": "RiteAid",
+        "address": "61410 Farragut Park"
+      },
+      "itemType": {
+        "id": 724195,
+        "householdItemType": "skinCareProducts",
+        "brandName": "Neutrogena"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92004"
+  },
+  "name": "Rhys Smallman",
+  "username": "rsmallman24",
+  "password": "tO8/xB//TmHU,",
+  "inventories": {
+    "id": {
+      "$numberLong": "6320977098743494367"
+    },
+    "inventoryName": "SkinCare",
+    "items": {
+      "id": 57020722,
+      "name": "Sunscreen",
+      "usesLeft": 3,
+      "store": {
+        "id": 3890,
+        "name": "RiteAid",
+        "address": "61410 Farragut Park"
+      },
+      "itemType": {
+        "id": 379464,
+        "householdItemType": "skinCareProducts",
+        "brandName": "Neutrogena"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92005"
+  },
+  "name": "Stacee Cheale",
+  "username": "scheale2n",
+  "password": "fE1?/.ek@od)",
+  "inventories": {
+    "id": {
+      "$numberLong": "2844139953753665141"
+    },
+    "inventoryName": "SkinCare",
+    "items": {
+      "id": 57020722,
+      "name": "Sunscreen",
+      "usesLeft": 21,
+      "store": {
+        "id": 3890,
+        "name": "RiteAid",
+        "address": "61410 Farragut Park"
+      },
+      "itemType": {
+        "id": 975265,
+        "householdItemType": "skinCareProducts",
+        "brandName": "Neutrogena"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92006"
+  },
+  "name": "Julie Crombie",
+  "username": "jcrombiet",
+  "password": "uH2&KAdIL",
+  "inventories": {
+    "id": {
+      "$numberLong": "2818461420514936141"
+    },
+    "inventoryName": "SkinCare",
+    "items": {
+      "id": 57020722,
+      "name": "Sunscreen",
+      "usesLeft": 11,
+      "store": {
+        "id": 3890,
+        "name": "RiteAid",
+        "address": "61410 Farragut Park"
+      },
+      "itemType": {
+        "id": 421801,
+        "householdItemType": "skinCareProducts",
+        "brandName": "Neutrogena"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92007"
+  },
+  "name": "Ibby Sotheby",
+  "username": "isotheby18",
+  "password": "aE8~ihkdvQmTa'Hk",
+  "inventories": {
+    "id": {
+      "$numberLong": "8976772022804033148"
+    },
+    "inventoryName": "SkinCare",
+    "items": {
+      "id": 57020722,
+      "name": "Sunscreen",
+      "usesLeft": 29
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92008"
+  },
+  "name": "Ravi McCart",
+  "username": "rmccart1l",
+  "password": "oM9)/f$@Vpy+%",
+  "inventories": {
+    "id": "9855154006441270602",
+    "inventoryName": "Medicine",
+    "items": {
+      "id": 916133224,
+      "name": "Vitamin",
+      "usesLeft": 7,
+      "store": {
+        "id": 3890,
+        "name": "RiteAid",
+        "address": "61410 Farragut Park"
+      },
+      "itemType": {
+        "id": 214621,
+        "consumableType": "medicine",
+        "brandName": "Nature Made"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92009"
+  },
+  "name": "Cara Chamberlen",
+  "username": "cchamberlen1k",
+  "password": "dQ5%|94L$w1y&3",
+  "inventories": {
+    "id": {
+      "$numberLong": "4043922839113914459"
+    },
+    "inventoryName": "SkinCare",
+    "items": {
+      "id": 57020722,
+      "name": "Sunscreen",
+      "usesLeft": 5,
+      "store": {
+        "id": 3890,
+        "name": "RiteAid",
+        "address": "61410 Farragut Park"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b9200a"
+  },
+  "name": "Casi Antecki",
+  "username": "canteckis",
+  "password": "kW2~15EGU\\cG4{9x",
+  "inventories": {
+    "id": {
+      "$numberLong": "8715632198951734819"
+    },
+    "inventoryName": "Medicine",
+    "items": {
+      "id": 916133224,
+      "name": "Vitamin",
+      "usesLeft": 13,
+      "store": {
+        "id": 3890,
+        "name": "RiteAid",
+        "address": "61410 Farragut Park"
+      },
+      "itemType": {
+        "id": 844112,
+        "consumableType": "medicine",
+        "brandName": "Nature Made"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b9200b"
+  },
+  "name": "Devon Hiscocks",
+  "username": "dhiscocksc",
+  "password": "xE8|D'F%F",
+  "inventories": {
+    "id": {
+      "$numberLong": "82531315106782250"
+    },
+    "inventoryName": "Drink",
+    "items": {
+      "id": 62370185,
+      "name": "Water",
+      "usesLeft": 6,
+      "store": {
+        "id": 4458,
+        "name": "Walgreen",
+        "address": "0990 Jenna Pass"
+      },
+      "reminders": {
+        "id": 1336293,
+        "name": "Water Supply",
+        "daysTillPurchase": 12
+      },
+      "itemType": {
+        "id": 708929,
+        "consumableType": "drinks",
+        "daysTillExpiration": 266,
+        "brandName": "Poland Spring"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b9200c"
+  },
+  "name": "Marjy Tolley",
+  "username": "mtolleyr",
+  "password": "kH1>pOt|g",
+  "inventories": {
+    "id": {
+      "$numberLong": "3792213224653587138"
+    },
+    "inventoryName": "Drink",
+    "items": {
+      "id": 62370185,
+      "name": "Water",
+      "usesLeft": 9,
+      "store": {
+        "id": 4458,
+        "name": "Walgreen",
+        "address": "0990 Jenna Pass"
+      },
+      "itemType": {
+        "id": 83732,
+        "consumableType": "drinks",
+        "daysTillExpiration": 157,
+        "brandName": "Poland Spring"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b9200d"
+  },
+  "name": "Robbin Itscowicz",
+  "username": "ritscowiczn",
+  "password": "dV1=G,Z)I$AA",
+  "inventories": {
+    "id": {
+      "$numberLong": "6345261945594813228"
+    },
+    "inventoryName": "Drink",
+    "items": {
+      "id": 62370185,
+      "name": "Water",
+      "usesLeft": 23,
+      "store": {
+        "id": 4458,
+        "name": "Walgreen",
+        "address": "0990 Jenna Pass"
+      },
+      "itemType": {
+        "id": 889615,
+        "consumableType": "drinks",
+        "daysTillExpiration": 118,
+        "brandName": "Poland Spring"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b9200e"
+  },
+  "name": "Hilton Cowpland",
+  "username": "hcowpland27",
+  "password": "iB3>\"spt",
+  "inventories": {
+    "id": {
+      "$numberLong": "7671671383879222262"
+    },
+    "inventoryName": "Drink",
+    "items": {
+      "id": 62370185,
+      "name": "Water",
+      "usesLeft": 4,
+      "reminders": {
+        "id": 8733389,
+        "name": "Water Supply",
+        "daysTillPurchase": 16
+      },
+      "itemType": {
+        "id": 712572,
+        "consumableType": "drinks",
+        "daysTillExpiration": 173,
+        "brandName": "Poland Spring"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b9200f"
+  },
+  "name": "Jacqui Spinelli",
+  "username": "jspinelli20",
+  "password": "pP0\"1YNA",
+  "inventories": {
+    "id": {
+      "$numberLong": "31638311301713832"
+    },
+    "inventoryName": "Drink",
+    "items": {
+      "id": 62370185,
+      "name": "Water",
+      "usesLeft": 20,
+      "store": {
+        "id": 4458,
+        "name": "Walgreen",
+        "address": "0990 Jenna Pass"
+      },
+      "reminders": {
+        "id": 2154114,
+        "name": "Water Supply",
+        "daysTillPurchase": 22
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92010"
+  },
+  "name": "Ariela Daniell",
+  "username": "adaniellj",
+  "password": "bR3@?$IywI\"K#!?",
+  "inventories": {
+    "id": {
+      "$numberLong": "5401508352191852423"
+    },
+    "inventoryName": "Drink",
+    "items": [{
+      "id": 62370185,
+      "name": "Water",
+      "usesLeft": 5,
+      "store": {
+        "id": 4458,
+        "name": "Walgreen",
+        "address": "0990 Jenna Pass"
+      },
+      "itemType": {
+        "id": 611523,
+        "consumableType": "drinks",
+        "daysTillExpiration": 117,
+        "brandName": "Poland Spring"
+      }
+    }, {
+      "id": 336173632,
+      "name": "Milk",
+      "usesLeft": 2,
+      "store": {
+        "id": 983,
+        "name": "Stop & Shop",
+        "address": "0 Mallory Pass"
+      },
+      "itemType": {
+        "id": 810557,
+        "consumableType": "drinks",
+        "daysTillExpiration": 4,
+        "brandName": "Stop & Shop"
+      }
+    }]
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92011"
+  },
+  "name": "Vinnie Naisbet",
+  "username": "vnaisbetx",
+  "password": "yO9&lX'/!E",
+  "inventories": {
+    "id": {
+      "$numberLong": "5861432521681988593"
+    },
+    "inventoryName": "Drink",
+    "items": {
+      "id": 62370185,
+      "name": "Water",
+      "usesLeft": 19,
+      "store": {
+        "id": 4458,
+        "name": "Walgreen",
+        "address": "0990 Jenna Pass"
+      },
+      "itemType": {
+        "id": 731074,
+        "consumableType": "drinks",
+        "daysTillExpiration": 311,
+        "brandName": "Poland Spring"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92012"
+  },
+  "name": "Valli Vowden",
+  "username": "vvowden2g",
+  "password": "mC9?%,`H",
+  "inventories": {
+    "id": {
+      "$numberLong": "2746812534242141558"
+    },
+    "inventoryName": "Drink",
+    "items": {
+      "id": 62370185,
+      "name": "Water",
+      "usesLeft": 3,
+      "itemType": {
+        "id": 556092,
+        "consumableType": "drinks",
+        "daysTillExpiration": 271,
+        "brandName": "Poland Spring"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92013"
+  },
+  "name": "Garnette Dericut",
+  "username": "gdericut3",
+  "password": "iE2'GAYhlaU!x+?P"
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92014"
+  },
+  "name": "Muffin Urwin",
+  "username": "murwin4",
+  "password": "qT0|{`F*BWsn#"
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92015"
+  },
+  "name": "Vallie Drewson",
+  "username": "vdrewson6",
+  "password": "eA6\\qSt)O",
+  "inventories": {
+    "id": {
+      "$numberLong": "1955469248716470729"
+    },
+    "inventoryName": "Makeup"
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92016"
+  },
+  "name": "Patrice Broadbent",
+  "username": "pbroadbent7",
+  "password": "nZ1)|&<f*!6"
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92017"
+  },
+  "name": "Emelen Carlesso",
+  "username": "ecarlessob",
+  "password": "wQ5)I}>\"1M"
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92018"
+  },
+  "name": "Fransisco Winwood",
+  "username": "fwinwood15",
+  "password": "lE8&lu2h+Hr5|W9|"
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b92019"
+  },
+  "name": "Evyn Leyes",
+  "username": "eleyes1a",
+  "password": "lG3/J/@5"
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b9201a"
+  },
+  "name": "Austina Brabant",
+  "username": "abrabant1c",
+  "password": "tC0|+Z9+idS&\\",
+  "inventories": {
+    "id": {
+      "$numberLong": "6957166564464296258"
+    },
+    "inventoryName": "Hygiene"
+  }
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b9201b"
+  },
+  "name": "Brew Mounsie",
+  "username": "bmounsie1h",
+  "password": "lT7)~NHPSg_T0"
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b9201c"
+  },
+  "name": "Bastian Davet",
+  "username": "bdavet1v",
+  "password": "oG2'+URJ}rcX09#"
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b9201d"
+  },
+  "name": "Malanie Gaisford",
+  "username": "mgaisford1w",
+  "password": "jM6=dk~h"
+},
+{
+  "_id": {
+    "$oid": "66122beeedd428c364b9201e"
+  },
+  "name": "Roderic Gebhardt",
+  "username": "rgebhardt2c",
+  "password": "jC2/8dKVR",
+  "inventories": [{
+    "id": {
+      "$numberLong": "8647393840057339954"
+    },
+    "inventoryName": "Snack"
+  },
+  {
+    "id": {
+      "&numberLong": "9873645493289012345"
+    },
+    "inventoryName": "Food"
+  },
+  {
+    "id": {
+      "&numberLong": "9873572047204920318"
+    },
+    "inventoryName": "Drink"
+  }]
+}]
